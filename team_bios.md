@@ -1,5 +1,5 @@
 ## Team Bios
 
 - You: Loves Node and backend magic.
-- [Your Name]: New team member, eager to learn and contribute to amazing projects!
+- Niriksha G Shetty: New team member, eager to learn and contribute to amazing projects!
 - Member: Backend wizard who writes elegant APIs.
